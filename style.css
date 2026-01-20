@@ -1,6 +1,17 @@
 h1 {
-  color: tomato; text-align: left
+  { color:000080; vertical-align: top; text-align: center; } 
 }
-tuade {
-  color: tomato; text-align: left
+.tuade {
+  color:tomato;
+  font-family: "Times New Roman";
+  top-margin:20pt;
+  font-size:20pt;
+  font-weight: bold;
 }
+.noidung {
+  color:black;
+  top-margin:6pt;
+  font-style:normal;
+  font-size:15pt;
+}
+  
