@@ -1,5 +1,6 @@
 h1 {
-  { color:000080; vertical-align: top; text-align: center; } 
+  color: red;
+  text-margin:20pt;
 }
 .tuade {
   color:tomato;
@@ -10,6 +11,7 @@ h1 {
 }
 .noidung {
   color:black;
+  font-family: "Times New Roman";
   top-margin:6pt;
   font-style:normal;
   font-size:15pt;
