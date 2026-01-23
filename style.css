@@ -1,11 +1,11 @@
 h1 {
-  color: blue;
+  color: #02066b;
   text-margin:20px;
   vertical-align: top; 
   text-align: center;
 }
 .tuade {
-  color:red;
+  color: #ff0000;
   font-family: "Times New Roman";
   margin-top:20px;
   font-size:20px;
@@ -16,7 +16,6 @@ h1 {
   font-family: "Times New Roman";
   margin-top:6px;
   font-style:normal;
-  font-size:15px;
-  padding:10px;
+  font-size:20px;
 }
   
