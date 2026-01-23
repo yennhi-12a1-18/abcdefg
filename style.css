@@ -1,6 +1,8 @@
 h1 {
   color: blue;
   text-margin:20pt;
+  vertical-align: top; 
+  text-align: center;
 }
 .tuade {
   color:red;
