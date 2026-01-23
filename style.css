@@ -1,21 +1,22 @@
 h1 {
   color: blue;
-  text-margin:20pt;
+  text-margin:20px;
   vertical-align: top; 
   text-align: center;
 }
 .tuade {
   color:red;
   font-family: "Times New Roman";
-  top-margin:20pt;
-  font-size:20pt;
+  margin-top:20px;
+  font-size:20px;
   font-weight: bold;
 }
 .noidung {
   color:black;
   font-family: "Times New Roman";
-  top-margin:6pt;
+  margin-top:6px;
   font-style:normal;
-  font-size:15pt;
+  font-size:15px;
+  padding:10px;
 }
   
