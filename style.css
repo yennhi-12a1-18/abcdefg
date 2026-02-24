@@ -9,7 +9,7 @@
 }
 .menu{
   flex:5%;
-  background-color: darkred;
+  background-color: light yellow;
 }
 .content{
   flex:70%;
@@ -17,7 +17,7 @@
 }
 .footer{
   flex:10%;
-    background-color: lightorange;
+    background-color: light orange;
 }
 h1 {
   color: blue;
