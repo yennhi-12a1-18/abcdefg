@@ -11,9 +11,9 @@
   flex:5%;
   background-color: light yellow;
 }
-.content{
-  flex:70%;
-  background-color: white;
+.content iframe{
+  flex:1;
+  border: none;
 }
 .footer{
   flex:10%;
