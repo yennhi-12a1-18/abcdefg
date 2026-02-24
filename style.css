@@ -4,7 +4,7 @@
   height:100vh;
 }
 .header{
-  flex:15%
+  flex:15%;
   background-color: darkblue;
 }
 .menu{
