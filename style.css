@@ -5,11 +5,11 @@
 }
 .header{
   flex:15%;
-  background-color: lightblue;
+  background-color: MistyRose1;
 }
 .menu{
   flex:5%;
-  background-color: yellow;
+  background-color: LemonChiffon2;
 }
 .content iframe{
   flex:1;
@@ -19,7 +19,7 @@
 }
 .footer{
   flex:10%;
-    background-color: lightgray;
+    background-color: Bisque1;
 }
 h1 {
   color: blue;
