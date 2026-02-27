@@ -23,7 +23,7 @@
 }
 .content{
   flex:70%;
-cobackground-color: PapayaWhip;
+  background-color: PapayaWhip;
 }
 .content iframe{
   flex:1;
@@ -37,21 +37,21 @@ cobackground-color: PapayaWhip;
 }
 h1 {
   color: blue;
-  text-margin:30px;
+  text-margin:30pt;
   vertical-align: top;
 }
 .tuade {
   color: #ff0000;
   font-family: "Times New Roman";
-  margin-top:20px;
-  font-size:20px;
+  margin-top:20pt;
+  font-size:20pt;
   font-weight: bold;
 }
 .noidung {
   color: #000005;
   font-family: "Times New Roman";
-  margin-top:6px;
+  margin-top:6pt;
   font-style:normal;
-  font-size:15px;
+  font-size:15pt;
 }
   
