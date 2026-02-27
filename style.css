@@ -11,6 +11,10 @@
   flex:5%;
   background-color: LightSalmon1;
 }
+.content{
+  flex:70%;
+cobackground-color: PapayaWhip;
+}
 .content iframe{
   flex:1;
   border: none;
