@@ -9,7 +9,7 @@
 }
 .menu{
   flex:5%;
-  background-color: lightyellow;
+  background-color: yellow;
 }
 .content iframe{
   flex:1;
@@ -19,7 +19,7 @@
 }
 .footer{
   flex:10%;
-    background-color: lightorange;
+    background-color: lightgray;
 }
 h1 {
   color: blue;
