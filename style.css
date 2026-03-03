@@ -5,7 +5,7 @@
 }
 .header{
   flex:15%;
-  background-color: Salmon;
+  background-color: Firebrick3;
   background: url("images/kiss.jfif") center;
 }
 .menu{
@@ -19,7 +19,7 @@
   color: blue;
 }
 .menu hover{
-  background-color: Salmon;
+  background-color: LightSalmon1;
   color: black;
 }
 .content{
