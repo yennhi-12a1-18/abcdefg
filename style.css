@@ -6,7 +6,7 @@
 .header{
   flex:15%;
   background-color: Salmon;
-  background: url("
+  background: url("images/kiss.jfif") center;
 }
 .menu{
   flex:5%;
