@@ -4,7 +4,7 @@
   height:100vh;
 }
 .header{
-  flex:15%;
+  flex:20%;
   background-color: Firebrick3;
   background: url("images/kiss.jfif") center;
 }
@@ -34,8 +34,8 @@
   length:100%;
 }
 .footer{
-  flex:10%;
-    background-color: Firebrick;
+  flex:5%;
+  background-color: Firebrick;
 }
 h1 {
   color: blue;
