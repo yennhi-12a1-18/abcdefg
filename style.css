@@ -5,6 +5,7 @@
 }
 .header{
   flex:20%;
+  aspect-ratio: 6/1;
   background-color: Firebrick3;
   background: url("images/kiss.jfif") center;
 }
