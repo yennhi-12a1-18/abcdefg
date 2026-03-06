@@ -19,7 +19,7 @@
   padding: 15px 20px;
   color: Firebrick;
 }
-.menu hover{
+.menu a:hover{
   background-color: Brown1;
   color: white;
 }
