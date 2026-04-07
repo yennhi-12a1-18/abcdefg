@@ -3,13 +3,13 @@
     <meta charset="utf-8">
   </head>
   <body>
-  <p id="kq"> </p>
-   <b><script>
+  <b><p id="kq"> </p> </b>
+  <script>
     let params = new URLSearchParams(window.location.search);
     let name=params.get("txtTen");
     let yk=params.get("txtComment");
     document.getElementById("kq").innerHTML ="Cảm ơn bạn "+ name+" đã đăng ký";
-  </script> </b>
+  </script>
     <form action ="Bai1.html">
      Chúng tôi xin ghi nhận ý kiến của bạn và sẽ cập nhật lựa chọn của bạn. <br>
       <input type = "submit" name = "cmd" value = "BACK">
